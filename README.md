@@ -4,24 +4,6 @@
 ![image](https://github.com/user-attachments/assets/ca8a6715-4384-4c2b-80b1-86268060aad3)
 
 
-node-mongo-crud/
-├── config/
-│   └── db.js                 # MongoDB connection setup
-├── controller/
-│   └── UserController.js     # Controller logic for user operations
-├── models/
-│   └── User.js               # Mongoose schema for the User model
-├── routes/
-│   └── UserRoutes.js         # API routes for user-related operations
-├── service/
-│   └── UserService.js        # Business logic for user operations
-├── utils/
-│   └── ErrorHandler.js       # Custom error handling middleware
-├── node_modules/             # Auto-generated folder for dependencies
-├── app.js                    # Main entry point for the application
-├── package.json              # Project metadata and dependencies
-├── package-lock.json         # Lock file for dependencies
-
 
 #Setup
 1.Initialize the project:

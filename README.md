@@ -1,6 +1,8 @@
 # CURD-OPP-TEST-API
 
 #Folder Structure
+![image](https://github.com/user-attachments/assets/ca8a6715-4384-4c2b-80b1-86268060aad3)
+
 
 node-mongo-crud/
 ├── config/

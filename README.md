@@ -1,6 +1,8 @@
 # CURD-OPP-TEST-API
 
 #Folder Structure
+Create Main Project Folder Name node-mongo-curd
+then save the file.js files according by creating the folder  shown below
 ![image](https://github.com/user-attachments/assets/ca8a6715-4384-4c2b-80b1-86268060aad3)
 
 
